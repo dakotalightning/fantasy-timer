@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react'
-import { ArrowPathIcon, CloudArrowUpIcon, FingerPrintIcon, LockClosedIcon } from '@heroicons/react/24/outline'
+import { CloudArrowUpIcon} from '@heroicons/react/24/outline'
 
 const features = [
   {
